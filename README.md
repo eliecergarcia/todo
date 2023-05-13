@@ -1,6 +1,6 @@
-# todo
+# TODO
 
-A new Flutter project.
+TODO app es una aplicacion para la gestion de tus tareas de todo, sobre todo esta enfocada para el desarrollo y entendimiento de como funciona flutter en iOS y Android
 
 ## Getting Started
 
